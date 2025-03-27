@@ -28,8 +28,8 @@ lwc-advanced-table/
 ## 🛠️ Setup & Installation
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-repo/lwc-advanced-table.git
-   cd lwc-advanced-table
+   https://github.com/HarshalGaurkar/dataTableWithSearchAndPagination.git
+   cd dataTableWithSearchAndPagination
    ```
 2. **Deploy to Salesforce**
    - Use **VS Code with Salesforce CLI** or deploy manually.
